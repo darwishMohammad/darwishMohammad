@@ -1,6 +1,18 @@
+<!-- Animated Gradient Background -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" width="100%"/>
+</p>
+
+<!-- Typing Effect -->
+<p align="center">
+  <a href="https://github.com/YOUR-USERNAME">
+    <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00C3FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Mohammad+Fawaz+Darwish;Full+Stack+Developer;C%23+%7C+Java+%7C+PHP+%7C+JavaScript;REST+API+%7C+SOAP+API;Docker+%7C+MySQL+%7C+Oracle;Passionate+About+Clean+Code" alt="Typing SVG">
+  </a>
+</p>
+
+<!-- Header -->
 <h2 align="center">
-  Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-  <br>I'm Mohammad Fawaz Darwish — Full Stack Developer 🚀
+  🚀 Welcome to My GitHub Profile 🚀
 </h2>
 
 <p align="center">
@@ -24,7 +36,6 @@
 ## 🛠 Technologies & Tools
 
 <p align="left">
-  <!-- Programming Languages -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40"/>
@@ -33,16 +44,10 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
-
-  <!-- APIs -->
   <img src="https://www.vectorlogo.zone/logos/json/json-icon.svg" width="40" height="40" title="REST API"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Soap_logo.png" width="40" height="40" title="SOAP API"/>
-
-  <!-- Databases -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40" height="40"/>
-
-  <!-- Tools -->
   <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>
@@ -50,11 +55,29 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📂 Latest Projects
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight" alt="GitHub stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight" alt="Top languages" width="48%"/>
+  <a href="https://github.com/YOUR-USERNAME/YOUR-REPO-1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR-USERNAME&repo=YOUR-REPO-1&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/YOUR-USERNAME/YOUR-REPO-2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR-USERNAME&repo=YOUR-REPO-2&theme=tokyonight" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats & Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR-USERNAME&theme=tokyonight" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight" width="48%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR-USERNAME&theme=tokyonight&margin-w=5&row=1" width="90%"/>
 </p>
 
 ---
@@ -67,4 +90,3 @@
   <a href="https://instagram.com/YOUR-INSTAGRAM"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="mailto:YOUR-EMAIL@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
- 
