@@ -57,25 +57,6 @@
 
 ---
 
-## 📂 Latest Projects
-
-<p align="center">
-  <a href="https://github.com/YOUR-USERNAME/YOUR-REPO-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR-USERNAME&repo=YOUR-REPO-1&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/YOUR-USERNAME/YOUR-REPO-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR-USERNAME&repo=YOUR-REPO-2&theme=tokyonight" />
-  </a>
-</p>
-
----
-
-## 📊 GitHub Stats & Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR-USERNAME&theme=tokyonight" width="48%"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight" width="48%"/>
@@ -89,6 +70,5 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
   <a href="https://facebook.com/YOUR-FACEBOOK"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-  <a href="https://instagram.com/YOUR-INSTAGRAM"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="mailto:YOUR-EMAIL@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
