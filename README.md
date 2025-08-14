@@ -20,18 +20,18 @@
 </p>
 
 ---
-
 ## 👨‍💻 About Me
 
-- 💻 Full Stack Developer with expertise in **Web & Desktop Applications**  
-- 🖥 Skilled in **C#**, **.NET Core**, **Java**, **Kotlin**, **PHP**, **JavaScript**, **HTML5**, **CSS3**, **Bootstrap**, **Angular**, **React**, **Node.js**  
-- 📱 Android programming using **Kotlin**  
-- 🎮 Game programming experience with various frameworks  
-- 🔗 Experienced in building **REST API** & **SOAP API**  
-- 🐳 Working with **Docker** for containerized deployments  
-- 🗄 Proficient in **MySQL** & **Oracle Database**  
-- 🏛 Worked on **government & enterprise-scale projects**  
-- ⚡ Passionate about **system architecture** & **application security**
+💻 **Full Stack Developer | Systems Architect | API Specialist**  
+
+A software engineer with expertise in developing **web, desktop, and mobile applications**, proficient in **C#, Java, Kotlin, PHP, and JavaScript**.  
+Specialized in designing and building **REST APIs** and **SOAP APIs** with a strong focus on **security** and **clean code principles**.  
+
+Experienced in **Docker** for containerized deployments and skilled in managing **Oracle** and **MySQL** databases.  
+Successfully delivered **large-scale government and enterprise projects**.  
+
+Passionate about turning ideas into high-performance, fully integrated systems.  
+For me, programming is not just writing code — it's the art of problem-solving and building innovative solutions.
 
 ---
 
