@@ -1,5 +1,10 @@
 <!-- Animated Gradient Background -->
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" width="100%"/>
+</p>
+
+
 <!-- Typing Effect -->
 <p align="center">
   <a href="https://github.com/YOUR-USERNAME">
